@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookList</string>
+    <string name="search_view_hint">输入查询书名</string>
+    <string name="action_done">完成</string>
+    <string name="display_no_result">当前查询书名无返回数据，请重新输入</string>
+    <string name="loading_done">加载完成</string>
+    <string name="incorrect_author">佚名</string>
+    <string name="author">作者</string>
+    <string name="publisher">出版发行体</string>
+    <string name="publisdate">出版日期</string>
+</resources>

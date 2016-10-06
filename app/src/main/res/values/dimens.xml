@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="material_one_cell">8dp</dimen>
+    <dimen name="material_two_cell">16dp</dimen>
+
+    <dimen name="search_icon">48dp</dimen>
+</resources>
